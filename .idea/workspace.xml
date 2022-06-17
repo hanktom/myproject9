@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c274ae5-861a-404b-b35d-1c7e33fb33b2" name="Changes" comment="Hello world with Kotlin">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tom/score/Student.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="1c274ae5-861a-404b-b35d-1c7e33fb33b2" name="Changes" comment="Kotlin Student">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tom/score/Student.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tom/score/Student.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654849014467</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Kotlin Student">
+      <created>1655449578786</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655449578786</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,7 +144,8 @@
     <MESSAGE value="Hello world with class Person" />
     <MESSAGE value="Merged" />
     <MESSAGE value="Hello world with Kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello world with Kotlin" />
+    <MESSAGE value="Kotlin Student" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kotlin Student" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
